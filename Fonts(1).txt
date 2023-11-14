@@ -1,0 +1,17 @@
+Fonts used in this design:
+
+Font: Grand Hotel
+Author: Astigmatic
+Url: https://fonts.google.com/specimen/Grand+Hotel
+
+Font: Russo One
+Author: Jovanny Lemonad
+Url: https://fonts.google.com/specimen/Russo+One
+
+Font: Righteous
+Author: Astigmatic
+Url: https://fonts.google.com/specimen/Righteous
+
+Font: Shadows Into Light
+Author: Kimberly Geswein
+Url: https://fonts.google.com/specimen/Shadows+Into+Light

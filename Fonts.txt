@@ -1,0 +1,9 @@
+Fonts used in this design:
+
+Font: Londrina Solid
+Author: Marcelo Magalhães
+Url: https://fonts.google.com/specimen/Londrina+Solid
+
+Font: Dancing Script
+Author: Impallari Type
+Url: https://fonts.google.com/specimen/Dancing+Script
